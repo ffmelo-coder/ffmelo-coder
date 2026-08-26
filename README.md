@@ -30,9 +30,9 @@
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@d3d6b53c-2405-4a58-9f35-2c3a28f0b247">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=d3d6b53c-2405-4a58-9f35-2c3a28f0b247&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=d3d6b53c-2405-4a58-9f35-2c3a28f0b247&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22&v=3" alt="WakaTime Stats" width="466" loading="lazy"/></td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=d3d6b53c-2405-4a58-9f35-2c3a28f0b247&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=d3d6b53c-2405-4a58-9f35-2c3a28f0b247&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12&v=2" alt="WakaTime Stats" width="466" loading="lazy"/>
 </td>
 </tr>
 </table>
