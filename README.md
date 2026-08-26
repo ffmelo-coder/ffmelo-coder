@@ -1,3 +1,14 @@
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/user-attachments/assets/d3b8a31a-177c-41c1-a2e3-3ca68d5e0bed"/>
+
+</div>
+
+-----
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ffmelo-coder&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+
 <div align="center">
 <table>
 <tr>
@@ -58,5 +69,6 @@
 </tr> 
 </table>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ffmelo-coder&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ffmelo-coder)](https://github.com/stats-organization/github-stats-extended)
+
 
